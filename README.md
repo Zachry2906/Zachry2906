@@ -21,11 +21,14 @@ I'm Ahmad Zakaria! 🎓 Informatics student at UPN 'Veteran' Yogyakarta.
 <a href="https://www.python.org/">
   <img align="left" alt="Python" title="Python" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 </a>
-<a href="https://code.visualstudio.com/">
-  <img align="left" alt="VS Code" title="VS Code" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-</a>
 <a href="https://www.mysql.com/">
   <img align="left" alt="MySQL" title="MySQL" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" />
+</a>
+<a href="https://www.postgresql.org/">
+  <img align="left" alt="Postgresql" title="Postgresql" width="21px" height="21px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
+</a>
+<a href="https://tailwindui.com/">
+  <img align="left" alt="Tailwind" title="Tailwind" width="21px" height="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 </a>
 
 <br>
