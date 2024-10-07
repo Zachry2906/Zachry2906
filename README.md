@@ -41,13 +41,3 @@ I'm Ahmad Zakaria! 🎓 Informatics student at UPN 'Veteran' Yogyakarta.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zachry2906&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-### 🔍 You Can Find Me at 
-<p> 
-  <a href="https://www.linkedin.com/in/ahmad-zakaria-044a25248/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 100px;" />
-  </a> 
-  <a href="https://www.instagram.com/ahdzkr_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 100px;" />
-  </a> 
-</p>
